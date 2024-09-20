@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{123B2829-55FC-4B45-8E73-7E2300716E0C}|Odev2.5Wordpad\\Odev2.5Wordpad.csproj|c:\\users\\serap\\source\\repos\\odev2.5wordpad\\odev2.5wordpad\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B2829-55FC-4B45-8E73-7E2300716E0C}|Odev2.5Wordpad\\Odev2.5Wordpad.csproj|solutionrelative:odev2.5wordpad\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B2829-55FC-4B45-8E73-7E2300716E0C}|Odev2.5Wordpad\\Odev2.5Wordpad.csproj|c:\\users\\serap\\source\\repos\\odev2.5wordpad\\odev2.5wordpad\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{123B2829-55FC-4B45-8E73-7E2300716E0C}|Odev2.5Wordpad\\Odev2.5Wordpad.csproj|solutionrelative:odev2.5wordpad\\wordpad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B2829-55FC-4B45-8E73-7E2300716E0C}|Odev2.5Wordpad\\Odev2.5Wordpad.csproj|c:\\users\\serap\\source\\repos\\odev2.5wordpad\\odev2.5wordpad\\wordpad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B2829-55FC-4B45-8E73-7E2300716E0C}|Odev2.5Wordpad\\Odev2.5Wordpad.csproj|solutionrelative:odev2.5wordpad\\wordpad.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{123B2829-55FC-4B45-8E73-7E2300716E0C}|Odev2.5Wordpad\\Odev2.5Wordpad.csproj|C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\odev2.5wordpad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{123B2829-55FC-4B45-8E73-7E2300716E0C}|Odev2.5Wordpad\\Odev2.5Wordpad.csproj|solutionrelative:odev2.5wordpad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordPad.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\Odev2.5Wordpad\\WordPad.Designer.cs",
+              "RelativeDocumentMoniker": "Odev2.5Wordpad\\WordPad.Designer.cs",
+              "ToolTip": "C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\Odev2.5Wordpad\\WordPad.Designer.cs",
+              "RelativeToolTip": "Odev2.5Wordpad\\WordPad.Designer.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAAAAwDkBAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:22:09.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordPad.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\Odev2.5Wordpad\\WordPad.cs",
+              "RelativeDocumentMoniker": "Odev2.5Wordpad\\WordPad.cs",
+              "ToolTip": "C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\Odev2.5Wordpad\\WordPad.cs",
+              "RelativeToolTip": "Odev2.5Wordpad\\WordPad.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAwMAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:17:15.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WordPad.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\Odev2.5Wordpad\\WordPad.cs",
+              "RelativeDocumentMoniker": "Odev2.5Wordpad\\WordPad.cs",
+              "ToolTip": "C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\Odev2.5Wordpad\\WordPad.cs [Design]",
+              "RelativeToolTip": "Odev2.5Wordpad\\WordPad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T09:18:39.926Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\Odev2.5Wordpad\\Program.cs",
+              "RelativeDocumentMoniker": "Odev2.5Wordpad\\Program.cs",
+              "ToolTip": "C:\\Users\\serap\\source\\repos\\Odev2.5Wordpad\\Odev2.5Wordpad\\Program.cs",
+              "RelativeToolTip": "Odev2.5Wordpad\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:53:08.314Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

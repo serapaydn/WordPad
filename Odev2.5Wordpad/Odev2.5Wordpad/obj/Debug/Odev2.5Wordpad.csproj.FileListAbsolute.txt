@@ -1,0 +1,12 @@
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\bin\Debug\Odev2.5Wordpad.exe.config
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\bin\Debug\Odev2.5Wordpad.exe
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\bin\Debug\Odev2.5Wordpad.pdb
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\obj\Debug\Odev2.5Wordpad.csproj.AssemblyReference.cache
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\obj\Debug\Odev2._5Wordpad.Properties.Resources.resources
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\obj\Debug\Odev2._5Wordpad.WordPad.resources
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\obj\Debug\Odev2.5Wordpad.csproj.GenerateResource.cache
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\obj\Debug\Odev2.5Wordpad.csproj.CoreCompileInputs.cache
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\obj\Debug\Odev2.5Wordpad.exe
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\obj\Debug\Odev2.5Wordpad.pdb
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\obj\Debug\Odev2._5Wordpad.Giris.resources
+C:\Users\serap\source\repos\Odev2.5Wordpad\Odev2.5Wordpad\obj\Debug\Odev2._5Wordpad.Gorunum.resources
